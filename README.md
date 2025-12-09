@@ -1,2 +1,6 @@
 # kuma
-my first vepo
+##my first vepo
+### practicals
+####html
+#####programming
+######life
